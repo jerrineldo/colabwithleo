@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^0.19.2",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  }
+}
